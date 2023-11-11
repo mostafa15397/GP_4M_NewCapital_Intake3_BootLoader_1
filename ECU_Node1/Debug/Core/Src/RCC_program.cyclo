@@ -1,3 +1,0 @@
-../Core/Src/RCC_program.c:17:6:RCC_voidInitSysClock	1
-../Core/Src/RCC_program.c:41:6:RCC_voidEnableClock	6
-../Core/Src/RCC_program.c:58:6:RCC_voidDisableClock	6

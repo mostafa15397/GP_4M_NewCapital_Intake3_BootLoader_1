@@ -1,7 +1,0 @@
-../Core/Src/SYSTICK_program.c:23:6:SYSTICK_voidInit	1
-../Core/Src/SYSTICK_program.c:34:6:SYSTICK_voidSetBusyWait	2
-../Core/Src/SYSTICK_program.c:48:6:SYSTICK_voidSetIntervalSingle	1
-../Core/Src/SYSTICK_program.c:66:6:SYSTICK_voidSetIntervalPeriodic	1
-../Core/Src/SYSTICK_program.c:80:6:SYSTICK_voidStopInterval	1
-../Core/Src/SYSTICK_program.c:90:6:SYSTICK_u32GetElapsedTime	1
-../Core/Src/SYSTICK_program.c:97:6:SYSTICK_u32GetRemainingTime	1

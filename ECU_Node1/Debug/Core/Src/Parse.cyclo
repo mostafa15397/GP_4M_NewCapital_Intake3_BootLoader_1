@@ -1,4 +1,0 @@
-../Core/Src/Parse.c:18:4:Parser_u8AsciToHex	3
-../Core/Src/Parse.c:36:6:Pareser_voidParseData	2
-../Core/Src/Parse.c:71:6:Parser_voidParseUpperAddress	1
-../Core/Src/Parse.c:84:6:Parser_voidParseRecord	3
