@@ -1,0 +1,4 @@
+../Core/Src/UART_program.c:17:6:UART1_voidInit	4	static
+../Core/Src/UART_program.c:27:6:UART1_voidTransmit	24	static
+../Core/Src/UART_program.c:41:6:UART1_voidTransmitASCI	16	static
+../Core/Src/UART_program.c:49:4:UART1_u8Receive	24	static

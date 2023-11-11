@@ -1,0 +1,7 @@
+../Core/Src/main.c:73:6:JumpApplicationFunction	1
+../Core/Src/main.c:101:6:HAL_CAN_RxFifo0MsgPendingCallback	2
+../Core/Src/main.c:117:5:main	6
+../Core/Src/main.c:249:6:SystemClock_Config	3
+../Core/Src/main.c:285:13:MX_CAN_Init	2
+../Core/Src/main.c:339:13:MX_GPIO_Init	1
+../Core/Src/main.c:372:6:Error_Handler	1
